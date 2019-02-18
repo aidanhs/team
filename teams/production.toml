@@ -4,8 +4,10 @@ name = "production"
 leads = ["aidanhs"]
 members = [
     "aidanhs",
-    "aturon",
     "celaus",
+    "jamesmunns",
+    "manishearth",
+    "mgattozzi",
 ]
 
 [[lists]]
